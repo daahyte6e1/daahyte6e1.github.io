@@ -1,0 +1,35 @@
+.table {
+    background-color: #FCD63C;
+    color: #5f2613;
+    font-size: 20px;
+    height: 50%;
+}
+.table-header {
+    border-radius: 15px 15px 0 0;
+    background-color: #fee472;
+}
+.icon-column {
+    display: flex;
+    justify-content: center;
+    width: 20%;
+}
+.column {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 40%;
+}
+.table-row {
+    padding: 5px 0;
+}
+.table-row .black-circle {
+    margin: 0;
+}
+
+.friends {
+    padding: 5px 0;
+}
+.crumble-image {
+    width: 25px;
+    height: 25px;
+}

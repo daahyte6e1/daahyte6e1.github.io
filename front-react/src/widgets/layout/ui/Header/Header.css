@@ -1,0 +1,30 @@
+.header-main {
+    width: 100%;
+    background-color: #5f2613;
+    height: 30px;
+    justify-content: space-between;
+    border-radius: 13px;
+    display: flex;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color: #ffcc00;
+}
+.header-level {
+    font-size: 24px;
+    line-height: 32px;
+    padding-left: 15px;
+}
+.header-user {
+    font-size: 20px;
+    padding-right: 15px;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+.row {
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 100%;
+    margin-left: 5px;
+}

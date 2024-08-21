@@ -1,0 +1,10 @@
+.button {
+    width: 20%;
+    margin: 0 10px;
+}
+.button:last-child {
+    margin-right: 0;
+}
+.button:first-child {
+    margin-right: 0;
+}

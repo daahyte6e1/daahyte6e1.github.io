@@ -1,0 +1,39 @@
+.app {
+    height: 97vh;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Montserrat !important;
+}
+
+.header {
+    /*margin-bottom: 15px;*/
+}
+
+.container {
+    padding-top: 15px;
+    height: 80%;
+}
+
+.footer {
+    max-height: 30px;
+    height: 10%;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.flex {
+    display: flex;
+}
+.align-center {
+    align-items: center;
+}
+.w-100 {
+    width: 100%;
+}
+.black-circle {
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 100%;
+    margin-left: 5px;
+}
